@@ -1,5 +1,5 @@
 # github-finder-react
-A simple react app using Githun API
+A simple react app using Github API
 
 ## Installation
 
